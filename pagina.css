@@ -34,7 +34,7 @@ body {
     color: #f6f6f6; /* Color del texto */
     border-radius: 8px; /* Bordes redondeados opcionalmente */
     position: relative;
-    top: 20px; /* Espacio desde la parte superior de la ventana */
+    top: 0px; /* Espacio desde la parte superior de la ventana */
 }
 
 
